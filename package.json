@@ -1,0 +1,38 @@
+{
+  "name": "zero-two-quotes",
+  "version": "1.0.0",
+  "description": "An NPM package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
+  "main": "./dist/app.js",
+  "files": [
+    "dist/",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node ./test/test.js",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8cy/node-002"
+  },
+  "keywords": [
+    "meme",
+    "javascript",
+    "js",
+    "uwu",
+    "zerotwo",
+    "zero-two",
+    "zero two",
+    "zerotwo",
+    "DARLING in the FRANXX",
+    "anime",
+    "002"
+  ],
+  "author": "Sin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8cy/node-002/issues"
+  },
+  "homepage": "https://github.com/8cy/node-002#readme"
+}
