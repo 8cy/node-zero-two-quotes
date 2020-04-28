@@ -25,7 +25,10 @@ console.log(zerotwo());
 $ I think I have taken a liking to you. Won't you be my darling?
 ```
 
-# Upcoming
+## Updates
+- Changed quote case method to array calculation.
+
+## Upcoming
 - Will be adding more Zero Two quotes (please send some in!).
 - Will be adding some Hiro quotes (also please send some in!).
 
