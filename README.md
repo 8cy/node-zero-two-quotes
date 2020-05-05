@@ -34,5 +34,6 @@ $ I think I have taken a liking to you. Won't you be my darling?
 
 ## Links
 
-*   [Website](https://cyne.cf)
+*   [Website](https://kyzer.co)
 *   [NPM](https://npmjs.com/zero-two-quotes)
+*   [GitHub](https://github/com/8cy/node-002)
