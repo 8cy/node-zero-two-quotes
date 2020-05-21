@@ -1,3 +1,5 @@
+# Development has been moved to [node-002](https://github.com/8cy/node-002).
+
 # Zero Two Quotes
 [![npm](https://img.shields.io/npm/v/zero-two-quotes.svg)](https://www.npmjs.com/package/zero-two-quotes)
 [![license](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/npm-002/blob/master/LICENSEhttps://github.com/8cy/node-002/blob/master/LICENSE)
